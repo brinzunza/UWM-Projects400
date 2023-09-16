@@ -1,0 +1,15 @@
+Title,Artist,Album
+Stitches,Shawn Mendes,Handwritten
+Counting Stars,OneRepublic,Native
+Natural,Imagine Dragons,Origins
+Too Many Nights,Metro Boomin,Heroes and Villains
+Ew,Joji,Nectar
+Stay With Me,Sam Smith,Lifted
+In the End,Linkin Park,Hybrid Theory
+Coaster,Khalid,American Teen
+Solo,Future,HNDRXX
+EARFQUAKE,"Tyler,The Creator",IGOR
+Creepin,"Metro Boomin,TheWeeknd",Heroes and Villains
+Sticky,"Honestly,Nevermind"
+Circles,Post Malone,Hollywood's Bleeding
+The Morning,TheWeeknd,Trilogy

@@ -1,0 +1,26 @@
+Title,Artist,Album
+Stitches,Shawn Mendes,Handwritten
+Counting Stars,OneRepublic,Native
+Natural,Imagine Dragons,Origins
+Too Many Nights,Metro Boomin,Heroes and Villains
+Ew,Joji,Nectar
+Stay With Me,Sam Smith,Lifted
+In the End,Linkin Park,Hybrid Theory
+Coaster,Khalid,American Teen
+Solo,Future,HNDRXX
+EARFQUAKE,"Tyler,The Creator",IGOR
+Creepin,Metro Boomin,Heroes and Villains
+Sticky,Drake,"Honestly,Nevermind"
+Circles,Post Malone,Hollywood's Bleeding
+The Morning,TheWeeknd,Trilogy
+Blinding Lights, TheWeeknd, After Hours
+Save Your Tears, TheWeeknd, After Hours
+Starboy, TheWeeknd, Starboy
+Rich Flex, Drake, Her Loss
+One Dance, Drake, Views
+Kill Bill, SZA, SOS
+Vanish, Giveon, TAKE TIME
+Otro Atardecer, Bad Bunny, Un Verano Sin Ti
+Ojitos Lindos, Bad Bunny, Un Verano Sin Ti
+Congratulations, Post Malone, Stoney
+Congratulations, Mac Miller, The Divine Feminine
